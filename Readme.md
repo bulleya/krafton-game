@@ -27,7 +27,7 @@ This project is a real-time multiplayer game developed in C++ using SFML for ren
    ```
 2. Compile the project:
    ```bash
-   mkdir build && cd build
+   mkdir -p build && cd build
    cmake ..
    make -j4
    ```
@@ -48,13 +48,13 @@ You need to run the server first, then connect one or more clients.
 ### 1. Start the Server
 Run the server executable. It listens on port 8888 by default.
 ```bash
-./GameServer 8888
+./build/GameServer 8888
 ```
 
 ### 2. Start the Client
 Run the client executable. You must provide the IP and Port.
 ```bash
-./GameClient 127.0.0.1 8888
+./build/GameClient 127.0.0.1 8888
 ```
 *Note: To simulate a multiplayer scenario locally, open a second terminal and run another instance of the client.*
 
@@ -84,3 +84,9 @@ Communication uses binary packets serialized in `GameProtocol.hpp`.
 * **Movement:** WASD or Arrow Keys.
 * **Goal:** Collect yellow coins to increase score.
 * **Exit:** Close the window or press `Ctrl+C` in the terminal.
+
+## Youtube Video
+Youtube video link for demonstration: https://youtu.be/mC5S_-d6UCw
+
+## Github Link 
+Github link for code repository: https://github.com/bulleya/krafton-game

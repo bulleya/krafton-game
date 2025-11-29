@@ -30,7 +30,7 @@ namespace CoinCollector {
 
 // Game constants
 constexpr uint16_t SERVER_PORT = 8888;
-constexpr float WORLD_WIDTH = 950.0f;
+constexpr float WORLD_WIDTH = 960.0f;
 constexpr float WORLD_HEIGHT = 550.0f;
 constexpr float PLAYER_RADIUS = 20.0f;
 constexpr float COIN_RADIUS = 15.0f;
