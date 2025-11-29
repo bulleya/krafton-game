@@ -1,0 +1,10 @@
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/GameServer.dir
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/GameClient.dir
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/TestInterpolation.dir
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/TestReconciliation.dir
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/edit_cache.dir
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/rebuild_cache.dir
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/list_install_components.dir
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/install.dir
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/install/local.dir
+/media/bansal3112/Stuff/Academic_Stuff/Coding/Companies/Krafton/build/CMakeFiles/install/strip.dir
